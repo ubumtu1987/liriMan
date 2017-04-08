@@ -1,0 +1,23 @@
+{
+  "name": "testliri",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "Liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubumtu1987/liriMan.git"
+  },
+  "keywords": [
+    "any",
+    "keyword"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubumtu1987/liriMan/issues"
+  },
+  "homepage": "https://github.com/ubumtu1987/liriMan#readme"
+}
